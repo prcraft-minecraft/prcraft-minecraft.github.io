@@ -18,11 +18,6 @@ net.minecraft.modding.api.event.client
 net.minecraft.modding.api.event.server
 net.minecraft.modding.api.game
 net.minecraft.modding.api.game.client
-net.minecraft.modding.impl
-net.minecraft.modding.impl.appcl
-net.minecraft.modding.impl.game
-net.minecraft.modding.impl.game.client
-net.minecraft.modding.impl.mods
 net.minecraft.packettrans
 net.minecraft.packettrans.protocol_1_0
 net.minecraft.packettrans.protocol_1_1
