@@ -1,3 +1,4 @@
++ 0.4.640 &mdash; Fix up some bugs
 + 0.4.639 &mdash; Last Vanilla item is 385 (`minecraft:fire_charge`), not 384 (`minecraft:experience_bottle`)
 + 0.4.638 &mdash; Introduce a delayed registration system
 + 0.4.637 &mdash; Exclude net.minecraft.modding.impl from javadoc
