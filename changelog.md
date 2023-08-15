@@ -1,3 +1,4 @@
++ 0.4.647 &mdash; RenderGlobal -> LevelRenderer
 + 0.4.646 &mdash; Creative tab pages
 + 0.4.645 &mdash; Use ItemStack directly for tab icons
 + 0.4.644 &mdash; Fix bugs

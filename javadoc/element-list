@@ -10,6 +10,7 @@ net.minecraft.client.gui.screens.packs
 net.minecraft.client.gui.screens.worldselection
 net.minecraft.client.particle
 net.minecraft.client.player
+net.minecraft.client.renderer
 net.minecraft.crash
 net.minecraft.isom
 net.minecraft.modding.api
