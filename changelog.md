@@ -1,3 +1,4 @@
++ 0.4.653 &mdash; Use resource reloads for languages
 + 0.4.652 &mdash; StringTranslate -> Language
 + 0.4.651 &mdash; Fix bugs
 + 0.4.650 &mdash; Begin doing resource pack stuff
