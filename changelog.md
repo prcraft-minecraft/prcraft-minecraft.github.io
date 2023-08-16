@@ -1,3 +1,4 @@
++ 0.4.656 &mdash; Update installer
 + 0.4.655 &mdash; Assets downloading progress bar
 + 0.4.654 &mdash; Do translation keys for Block and Item automatically
 + 0.4.653 &mdash; Use resource reloads for languages
