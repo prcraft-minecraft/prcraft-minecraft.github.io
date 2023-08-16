@@ -1,4 +1,6 @@
 unnamed package
+com.jcraft.jogg
+com.jcraft.jorbis
 net.minecraft
 net.minecraft.client
 net.minecraft.client.gui
