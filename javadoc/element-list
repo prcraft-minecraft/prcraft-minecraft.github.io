@@ -13,6 +13,7 @@ net.minecraft.client.player
 net.minecraft.client.renderer
 net.minecraft.crash
 net.minecraft.isom
+net.minecraft.locale
 net.minecraft.modding.api
 net.minecraft.modding.api.event
 net.minecraft.modding.api.event.client
