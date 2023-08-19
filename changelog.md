@@ -1,3 +1,4 @@
++ 0.4.660 &mdash; Try to optimize collision chunk loading
 + 0.4.659 &mdash; Use UUID in Session
 + 0.4.658 &mdash; Backport modern auth to server
 + 0.4.657 &mdash; Use jorbis source code
