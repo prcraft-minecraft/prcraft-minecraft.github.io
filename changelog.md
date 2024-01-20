@@ -1,3 +1,4 @@
++ 0.4.662 &mdash; Yeet MCP javadocs
 + 0.4.661 &mdash; Fix crash
 + 0.4.660 &mdash; Try to optimize collision chunk loading
 + 0.4.659 &mdash; Use UUID in Session
