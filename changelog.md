@@ -1,3 +1,4 @@
++ 0.4.664 &mdash; Apply some automatic code changes
 + 0.4.663 &mdash; Re-add a removed javadoc
 + 0.4.662 &mdash; Yeet MCP javadocs
 + 0.4.661 &mdash; Fix crash
