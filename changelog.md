@@ -1,3 +1,4 @@
++ 0.4.667 &mdash; Manual code changes to client.gui.screens.packs
 + 0.4.666 &mdash; Manual code changes to client.gui.screens.multiplayer
 + 0.4.665 &mdash; Manual code changes to client.gui.components and client.gui.screens.inventory
 + 0.4.664 &mdash; Apply some automatic code changes
