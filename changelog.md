@@ -1,3 +1,4 @@
++ 0.4.671 &mdash; Manual code changes to client.particle
 + 0.4.670 &mdash; Manual code changes to client.gui
 + 0.4.669 &mdash; Manual code changes to client.gui.screens
 + 0.4.668 &mdash; Manual code changes to client.gui.screens.worldselection
