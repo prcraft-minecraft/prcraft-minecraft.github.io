@@ -1,3 +1,4 @@
++ 0.4.669 &mdash; Manual code changes to client.gui.screens
 + 0.4.668 &mdash; Manual code changes to client.gui.screens.worldselection
 + 0.4.667 &mdash; Manual code changes to client.gui.screens.packs
 + 0.4.666 &mdash; Manual code changes to client.gui.screens.multiplayer
