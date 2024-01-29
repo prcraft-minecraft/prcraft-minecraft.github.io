@@ -1,3 +1,4 @@
++ 0.4.673 &mdash; Manual code changes to client.renderer
 + 0.4.672 &mdash; Manual code changes to client.player
 + 0.4.671 &mdash; Manual code changes to client.particle
 + 0.4.670 &mdash; Manual code changes to client.gui
