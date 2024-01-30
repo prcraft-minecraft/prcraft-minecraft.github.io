@@ -1,3 +1,4 @@
++ 0.4.676 &mdash; Manual code changes to other half of world.block
 + 0.4.675 &mdash; Manual code changes to half of world.block
 + 0.4.674 &mdash; Manual code changes to client
 + 0.4.673 &mdash; Manual code changes to client.renderer
